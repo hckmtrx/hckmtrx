@@ -12,7 +12,7 @@
 ***
 # Advent of Code
 | year | finished part 1 | finished part 2 |
-|---|---|---|
+|:---:|:---:|:---:|
 |🎄 [2015](https://github.com/hckmtrx/advent-of-code/tree/main/2015) | 6 | 5 |
 |❄️ 2016 | 0 | 0 |
 |🎄 2017 | 0 | 0 |
