@@ -11,7 +11,7 @@
 -->
 ***
 # Advent of Code
-|🎄 year | one ⭐ | two ⭐⭐ |
+|🎄 year | ⭐ | ⭐⭐ |
 |:---:|:---:|:---:|
 |🎄 [2015](https://github.com/hckmtrx/advent-of-code/tree/main/2015) | 6 | 5 |
 |❄️ 2016 | 0 | 0 |
