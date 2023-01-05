@@ -9,15 +9,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hckmtrx&bg_color=0e0e26&hide_border=true&title_color=8a7400&text_color=8a7400&border_radius=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-***
-# Advent of Code
-| year | finished part 1 | finished part 2 |
-|:---:|:---:|:---:|
-|🎄 [2015](https://github.com/hckmtrx/advent-of-code/tree/main/2015) | 6 | 5 |
-|❄️ 2016 | 0 | 0 |
-|🎄 2017 | 0 | 0 |
-|❄️ 2018 | 0 | 0 |
-|🎄 2019 | 0 | 0 |
-|❄️ [2020](https://github.com/hckmtrx/advent-of-code/tree/main/2020) | 2 | 2 |
-|🎄 2021 | 0 | 0 |
-|❄️ [2022](https://github.com/hckmtrx/advent-of-code/tree/main/2022) | 4 | 4 |
